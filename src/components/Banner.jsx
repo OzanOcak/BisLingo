@@ -60,10 +60,10 @@ const Banner = () => {
               viewport={{ once: false, amount: 0.7 }}
               className="mb-8 max-w-lg mx-auto lg:mx-0"
             >
-              Not just a regulary dictionary app. You can build your own
+              Not just a regular dictionary app. You can build your own
               dictionary as you like. You can use it for any language you want.
-              Moreover BisLingo has its own quiz bulder that can produce random
-              question with your own entries and you can also practice your
+              Moreover BisLingo has its own quiz builder that can produce random
+              questions with your own entries and you can also practice your
               knowledge by playing hangman.
             </motion.p>
             <motion.div // div component move up by fading in
