@@ -74,7 +74,9 @@ const Banner = () => {
               className="flex max-w-max gap-x-6 items-center mb-12 mx-auto lg:mx-0"
             >
               <button className="btn btn-lg flex flex-row justify-center items-center gap-2">
-                <a href="#contact">Download</a>
+                <a href="https://play.google.com/store/apps/details?id=com.oocak.panelistmobilerevised">
+                  Download
+                </a>
                 <BsAndroid2 />
               </button>
             </motion.div>
